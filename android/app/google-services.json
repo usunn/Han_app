@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "809530917468",
+    "firebase_url": "https://hann-7b7be-default-rtdb.firebaseio.com",
+    "project_id": "hann-7b7be",
+    "storage_bucket": "hann-7b7be.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:809530917468:android:846a968ac98f7942ea1c99",
+        "android_client_info": {
+          "package_name": "com.example.han_test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgBOajHqUAjkoM2hx3t2nPS1s9_B94WiQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:809530917468:android:c2a10de3260f5de5ea1c99",
+        "android_client_info": {
+          "package_name": "com.example.hann"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgBOajHqUAjkoM2hx3t2nPS1s9_B94WiQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
